@@ -1,4 +1,4 @@
-![image](https://github.com/AliyaAzeez/StackOverflowSurveyAnalysis/assets/69137998/11df4e62-07b6-4335-ae17-6c00102df378)# StackOverflowSurveyAnalysis
+# StackOverflowSurveyAnalysis
 Data Analysis on Stack Overflow Survey Dataset
 
 
