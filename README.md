@@ -15,7 +15,7 @@ Analyze trends in programming languages and technologies. Highlight the rise of 
 Number of respondents in the year 2022 and year 2023 is 732668 and 89184 respectively. There is a 22% rise in participants from 2022 to 2023. This means that there are a greater number of people finding stack overflow useful for their professional growth.
 
 #### Who are the survey respondents?
-![image](https://github.com/AliyaAzeez/StackOverflowSurveyAnalysis/visualizations/jobType.png)
+![image](https://github.com/AliyaAzeez/StackOverflowSurveyAnalysis/blob/main/visualizations/jobType.png)
 
 - The survey contains the response of developer, Analysts, IT leaders, reporters.
 - Majority of the respondents are Full Stack Developers followed by  Frontend and Backend Developers.
