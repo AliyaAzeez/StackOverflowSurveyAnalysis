@@ -46,6 +46,17 @@ Number of respondents in the year 2022 and year 2023 is 732668 and 89184 respect
 - Most respondents are in the early to mid-career stage
 - 49.71% of respondents have less than a decade of coding experience
 
+### Popular Tools and Technologies
+-  Languages that are popular with students: JavaScript, HTML/CSS, Python
+- Database: Professional developers are inclined to use PostgreSQL more frequently than those who are learning to code, whereas learners are more inclined to use MySQL.
+- Web frameworks: Node.js and React.js are the two most common web technologies used by all respondents.
+- Cloud Platforms: Among all respondents, AWS continues to be the most utilized cloud platform, comfortably securing the leading position, with its usage nearly doubling that of the second most used cloud platform, Azure.
+- Other tools: Docker is the top-used other tool amongst all respondents followed by npm and pip
+- Other frameworks: .NET (5+) is top of the list. Those learning to code are using NumPy and Pandas more than .NET (5+)
+- Collaboration Tools: Visual Studio Code remains the preferred IDE across all developers
+- Synchronous Tools: The top three synchronous tools, Microsoft Teams, Slack, and Zoom, are universally favoured by all respondents.
+
+
 ### Who are the developers with the highest earnings?
 ![image](https://github.com/AliyaAzeez/StackOverflowSurveyAnalysis/blob/main/visualizations/devType-Comp.png)
 
